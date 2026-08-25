@@ -50,32 +50,6 @@ CI, мониторинг и потом уметь всё это нормальн
 
 Стек: **NestJS · React · PostgreSQL · Redis · Stalwart · Docker · llama.cpp**.
 
-### 🐾 Pesherkino
-
-Развиваю собственные инструменты и приложения вокруг VPN-сервиса: desktop-клиент,
-web-интерфейсы и инфраструктурные утилиты.
-
----
-
-## Публичные проекты
-
-### [Pesherkino VPN](https://github.com/Muhendalf-ru/pesherkino-vpn)
-
-Desktop-клиент для управления VPN-сервисом с выбором региона, логами подключения,
-авторизацией через Telegram и дополнительными сетевыми инструментами.
-
-`React` · `TypeScript` · `Electron` · `Redux Toolkit` · `Vite`
-
-### [Pesherkino VPN Site](https://github.com/Muhendalf-ru/Pesherkino-VPN-Site)
-
-Веб-интерфейс проекта Pesherkino VPN.
-
-`React` · `TypeScript` · `Vite` · `Framer Motion`
-
-### [pesherkino-monorepo](https://github.com/Muhendalf-ru/pesherkino-monorepo)
-
-Текущий публичный monorepo для развития экосистемы Pesherkino.
-
 ---
 
 ## Стек
