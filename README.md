@@ -1,77 +1,106 @@
 <div align="center">
 
-# Привет, я Алексей 👋
+# Алексей · Muhendalf
 
-### Frontend / Full-stack developer
+### Frontend-focused Full-stack Developer
 
-В основном работаю с **React и TypeScript**, но спокойно ухожу глубже — в API, базы данных,
-Docker, Linux и инфраструктуру, если этого требует проект.
+Создаю интерфейсы и сервисы на **React + TypeScript**, а когда проект требует —
+проектирую API, работаю с базами данных, контейнерами и production-инфраструктурой.
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=111" alt="React" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-</p>
+<br />
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<br />
+
+[![Telegram](https://img.shields.io/badge/Telegram-@muhendalf-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/muhendalf)
 
 </div>
 
 ---
 
-## Обо мне
+## 👨‍💻 Чем занимаюсь
 
-Мне интересны проекты, которые нужно не только сверстать, но и **довести до рабочего сервиса**:
-спроектировать API, подключить базу данных, собрать контейнеры, настроить reverse proxy,
-CI, мониторинг и потом уметь всё это нормально поддерживать.
+Мне интересна разработка продукта целиком — не только интерфейс, но и то, как он работает после `git push`.
 
-Основной фокус — **frontend и продуктовая разработка**, при этом backend и DevOps для меня не
-«чужая территория», а обычная часть работы над проектом.
-
-Сейчас много работаю с:
-
-- **React, TypeScript, Vite** — интерфейсы и клиентские приложения;
-- **Node.js, NestJS, REST API** — серверная логика;
-- **PostgreSQL, Prisma, Redis** — данные и прикладное состояние;
-- **Docker Compose, Linux, Caddy / Nginx** — развёртывание и эксплуатация;
-- **GitHub Actions** — проверки и CI;
-- self-hosted сервисами, почтовой и сетевой инфраструктурой.
-
----
-
-## Что сейчас делаю
-
-### ✉️ Mail Platform
-
-Разрабатываю self-hosted почтовую платформу: единый интерфейс для собственных и внешних
-почтовых ящиков, web/Mini App, Telegram, shared mailboxes, уведомления, резервные копии и
-локальные AI-функции.
-
-Стек: **NestJS · React · PostgreSQL · Redis · Stalwart · Docker · llama.cpp**.
-
----
-
-## Стек
-
-| Направление | Использую |
+| Направление | Что делаю |
 | --- | --- |
-| Frontend | React, TypeScript, JavaScript, Vite, Redux Toolkit, TanStack Query, Tailwind, SCSS |
-| Backend | Node.js, NestJS, REST API |
-| Data | PostgreSQL, Prisma, Redis, MongoDB |
-| Infrastructure | Docker, Docker Compose, Linux, Caddy, Nginx, Cloudflare |
-| Tooling | Git, GitHub Actions, pnpm, npm, Postman, Grafana |
+| **Frontend** | React-приложения, сложные интерфейсы, состояние, API-интеграции, адаптивная вёрстка |
+| **Backend** | REST API, бизнес-логика, авторизация, фоновые процессы на Node.js / NestJS |
+| **Data** | PostgreSQL, Prisma, Redis, MongoDB, проектирование прикладной модели данных |
+| **Infrastructure** | Docker Compose, Linux, reverse proxy, CI, мониторинг и self-hosted сервисы |
 
 ---
 
-## Как я подхожу к разработке
+## ✉️ Сейчас в работе — Mail Platform
 
-Предпочитаю понятные решения, которые можно **развернуть, проверить и сопровождать**.
-Не люблю усложнять архитектуру просто ради архитектуры, но уделяю внимание границам
-ответственности, безопасности, логированию и поведению системы в реальной эксплуатации.
+> Self-hosted почтовая платформа, которая объединяет собственные и внешние почтовые ящики за единым API.
+
+В проекте развиваю:
+
+- web / Mini App на **React**;
+- backend на **NestJS**;
+- hosted-почту на **Stalwart** и внешние IMAP/SMTP-ящики;
+- shared mailboxes и систему прав доступа;
+- Telegram-интерфейс и уведомления;
+- резервные копии в Telegram / S3-compatible storage;
+- локальные AI-функции через **llama.cpp + Qwen3**;
+- Docker-инфраструктуру, Caddy и CI.
+
+**Стек:** `TypeScript` · `React` · `NestJS` · `PostgreSQL` · `Prisma` · `Redis` · `Stalwart` · `Docker`
 
 ---
 
-## Контакты
+## 🧰 Основной стек
 
-[![Telegram](https://img.shields.io/badge/Telegram-@muhendalf-26A5E4?logo=telegram&logoColor=white)](https://t.me/muhendalf)
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+---
+
+## 🧩 Что для меня важно в разработке
+
+- понятная архитектура без усложнения ради усложнения;
+- API и интерфейсы с предсказуемым поведением;
+- безопасность и корректные границы доступа;
+- воспроизводимый deployment и понятная диагностика;
+- проект, который можно не только написать, но и **нормально сопровождать**.
+
+---
+
+<div align="center">
+
+### Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-@muhendalf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/muhendalf)
+
+</div>
